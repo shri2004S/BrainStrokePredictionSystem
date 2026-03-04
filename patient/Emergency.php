@@ -218,14 +218,7 @@ $stmt_name->close();
 </div>
 </div>
 <div class="flex-1 relative bg-gray-200 dark:bg-gray-900 group overflow-hidden">
-<iframe 
-    width="100%" 
-    height="100%" 
-    style="border:0" 
-    loading="lazy"
-    allowfullscreen
-    src="https://maps.google.com/maps?q=KDK%20College%20Road%20Nandanvan%20Nagpur&t=&z=15&ie=UTF8&iwloc=&output=embed">
-</iframe>
+
 </div>
 </div>
 <div class="bg-white dark:bg-surface-dark rounded-2xl border border-gray-100 dark:border-gray-800 shadow-sm p-6 overflow-y-auto h-[500px]">
