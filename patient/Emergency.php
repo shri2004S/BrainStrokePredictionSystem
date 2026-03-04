@@ -221,10 +221,10 @@ $stmt_name->close();
 <iframe 
     width="100%" 
     height="100%" 
-    frameborder="0" 
     style="border:0" 
-    src="https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=KDK+College+Road,Nandanvan,Nagpur,Maharashtra&zoom=15" 
-    allowfullscreen>
+    loading="lazy"
+    allowfullscreen
+    src="https://maps.google.com/maps?q=KDK%20College%20Road%20Nandanvan%20Nagpur&t=&z=15&ie=UTF8&iwloc=&output=embed">
 </iframe>
 </div>
 </div>

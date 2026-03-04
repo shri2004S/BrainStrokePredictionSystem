@@ -177,7 +177,7 @@ $pred_stmt->close();
                 </div>
             </div>
             <nav class="flex-1 px-4 space-y-2 mt-4">
-                <a class="sidebar-active flex items-center gap-3 px-4 py-3 rounded-xl transition-colors" href="#">
+                <a class="sidebar-active flex items-center gap-3 px-4 py-3 rounded-xl transition-colors" href="dashboard.php">
                     <span class="material-icons-outlined">home</span>
                     <span class="font-medium">Home</span>
                 </a>
